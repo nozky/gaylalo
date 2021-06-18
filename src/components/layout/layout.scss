@@ -1,0 +1,29 @@
+.layout{
+  display: grid;
+  height: 100%;
+
+  grid-template-columns: 1fr;
+  grid-template-rows: auto auto auto 1fr auto;
+
+  .header{
+    background-color: whitesmoke;
+    color: black;
+    box-shadow: 0 0 0 3px rgba($color: #000000, $alpha: 0.2);
+    margin-bottom: 3px;
+  }
+
+  .categories{
+    background-color: whitesmoke;
+    padding: 1em 2em;
+  }
+
+  .promo{
+    background-color: black;
+    color: white;
+    padding: 0.5em 1em;
+  }
+
+  .footer{
+    padding: 0.5em 1em;
+  }
+}
