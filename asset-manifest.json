@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gaylalo/static/css/main.8522da7c.chunk.css",
+    "main.css": "/gaylalo/static/css/main.cb31e038.chunk.css",
     "main.js": "/gaylalo/static/js/main.2c44ea66.chunk.js",
     "main.js.map": "/gaylalo/static/js/main.2c44ea66.chunk.js.map",
     "runtime-main.js": "/gaylalo/static/js/runtime-main.3a44f3c1.js",
@@ -10,14 +10,14 @@
     "static/js/3.c5a44f06.chunk.js": "/gaylalo/static/js/3.c5a44f06.chunk.js",
     "static/js/3.c5a44f06.chunk.js.map": "/gaylalo/static/js/3.c5a44f06.chunk.js.map",
     "index.html": "/gaylalo/index.html",
-    "static/css/main.8522da7c.chunk.css.map": "/gaylalo/static/css/main.8522da7c.chunk.css.map",
+    "static/css/main.cb31e038.chunk.css.map": "/gaylalo/static/css/main.cb31e038.chunk.css.map",
     "static/js/2.b988918f.chunk.js.LICENSE.txt": "/gaylalo/static/js/2.b988918f.chunk.js.LICENSE.txt",
     "static/media/banana.10fad20b.jpg": "/gaylalo/static/media/banana.10fad20b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3a44f3c1.js",
     "static/js/2.b988918f.chunk.js",
-    "static/css/main.8522da7c.chunk.css",
+    "static/css/main.cb31e038.chunk.css",
     "static/js/main.2c44ea66.chunk.js"
   ]
 }
